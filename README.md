@@ -23,4 +23,4 @@ Mingyang(Nathan) Li: make simple UI for demo purpose, deploy database on Azure.
 
 By clicking the URL, the first page you will see is a static web page, only one button can be clicked, the purpose of this page is to provide users a link button to access to the data submit page, which is the "exercise progress information"/
 
-(./img/pg1.jpg)
+## ![page 1](./img/pg1.jpg)
