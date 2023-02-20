@@ -28,6 +28,8 @@ By clicking the URL, the first page you will see is a static web page, only one 
 
 # page 2
 This page is a page for users to interact with the database, the purpose of this page is to allow users to enter information and after clicking submit the data will be stored in the database, and users are able to see the update of the database.
+This is for the schema: 
+- User_progress(PrescriptionID,YourName,DoctorName,ExerciseName, NumberOfCompletedSets, FinishStatus)
 
 ## ![page 2](./img/pg2.jpg)
 
