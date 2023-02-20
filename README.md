@@ -32,5 +32,5 @@ This page is a page for users to interact with the database, the purpose of this
 ## ![page 2](./img/pg2.jpg)
 
 # page 3
-This page shows the content of the database
+This page shows the content of the database, and that's everything! Over all, we make a UI for user to be able to "save" and "check" data to the Azure cloud database.
 
