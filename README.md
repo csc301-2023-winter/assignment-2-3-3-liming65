@@ -15,3 +15,12 @@ The schema wil be:
 - PrescriptionID is the key
 
 In order to visualize the database running on azure, I designed three simple ui interfaces. Users can "view" the database and add new data to the database without downloading code.In the future I will add more schema to the database and the database will be able to "delete" and "modify" the data.
+
+# Individual Contribution
+Mingyang(Nathan) Li: make simple UI for demo purpose, deploy database on Azure.
+
+# All the details and instructions forTA to see and verify the work
+
+By clicking the URL, the first page you will see is a static web page, only one button can be clicked, the purpose of this page is to provide users a link button to access to the data submit page, which is the "exercise progress information"/
+
+(./img/pg1.jpg)
