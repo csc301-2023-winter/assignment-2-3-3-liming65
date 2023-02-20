@@ -34,5 +34,5 @@ This is for the schema:
 ## ![page 2](./img/pg2.jpg)
 
 # page 3
-This page shows the content of the database, and that's everything! Over all, we make a UI for user to be able to "save" and "check" data to the Azure cloud database.
+This page shows the content of the database, the purpose of this page is for user to test if their data has been deployed on database, and that's everything! Over all, we make an UI for user to be able to "save" and "check" data to the Azure cloud database.
 
