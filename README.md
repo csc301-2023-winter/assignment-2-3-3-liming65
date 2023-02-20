@@ -2,7 +2,7 @@
 assignment-2-3-3-liming65 created by GitHub Classroom
 # Assignment  Details
 # Summary of decisions on database part
-I am working on the database part and I am going to set up postgreSQL database on Azure, as it is the require cloud platform. For now I am just going to make a simple schema and the purpose is to make sure users can type their "exercise progress information"， they will be able to save the info in the database and view the info from the database.
+I am working on the database part and I am going to set up postgreSQL database on Azure, as it is the require cloud platform . For now I am just going to make a simple schema and the purpose is to make sure users can type their "exercise progress information"， they will be able to save the info in the database and view the info from the database.
 The schema wil be: 
 - User_progress(PrescriptionID,YourName,DoctorName,ExerciseName, NumberOfCompletedSets, FinishStatus) 
 
