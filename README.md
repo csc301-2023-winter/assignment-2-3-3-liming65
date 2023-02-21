@@ -18,14 +18,17 @@ Click the URL below to see how the database works without downloading the code a
 - PostgreSQL will be the database on Azure
 
 # Summary of decisions on database part
-I am working on the database part and I am going to set up postgreSQL database on Azure, as it is the required cloud platform from our partner. For now I am just going to make a simple schema and the purpose is to make sure users can type their "exercise progress information"，they will be able to save the info in the database and view the info from the database.
+1. set up postgreSQL database on Azure, as it is the required cloud platform from our partner. 
+2. make a simple schema and the purpose is to make sure users can type their "exercise progress information"，
+3. Let the patients save the info in the database and view the info from the database.
 The schema wil be: 
 - User_progress(PrescriptionID,YourName,DoctorName,ExerciseName, NumberOfCompletedSets, FinishStatus)
 
-In order to visualize the database running on azure, I designed three simple ui interfaces. Users can "view" the database and add new data to the database without downloading code.In the future I will add more schema to the database and the database will be able to "delete" and "modify" the data.
+In order to visualize the database running on azure, three simple ui interfaces are created. Users can "view" the database and add new data to the database without downloading code.In the future, more schema will be added to the database which allows the patients to "delete" and "modify" the data.
 
 # Individual Contribution
 Mingyang(Nathan) Li: make simple UI for demo purpose, deploy database on Azure.
+Chengshuo(Vanessa) Zhang: design and create the database, orgranize the user story, writing the group report.
 
 # All the details and instructions for TA to see and verify the work
 Scenario: Alice is 68 years old and just recovered from the coronary heart disease.  She wants  to have access to a virtual rehabilitation program that allows her  to save her  progress and easily resume where she left off. Thus, she can make steady progress towards recovery without feeling overwhelme.
