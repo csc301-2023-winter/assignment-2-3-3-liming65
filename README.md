@@ -5,6 +5,9 @@ Click the URL below to see how the database works without downloading the code a
 
 [UHN-FE Website](https://uhn-fe.azurewebsites.net)
 
+- I uesd the postgreSQL server on Azure
+## ![page 6](./img/pg6.jpg)
+
 # Language used
 - Boostrap, mui is the style framework
 - React js and Next js will be used to develop the front end
