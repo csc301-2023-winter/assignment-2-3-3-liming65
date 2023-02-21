@@ -38,3 +38,9 @@ This is for the schema:
 # page 3(testing)
 This page shows the content of the database, the purpose of this page is for user to test if their data has been deployed on database, and that's everything! Over all, we make an UI for user to be able to "save" and "check" data to the Azure cloud database.
 
+# page 2 to 3 (step 1)
+## ![page 3](./img/pg3.jpg)
+# page 2 to 3 (step 2)
+## ![page 4](./img/pg4.jpg)
+# page 2 to 3 (step 3)
+## ![page 5](./img/pg5.jpg)
