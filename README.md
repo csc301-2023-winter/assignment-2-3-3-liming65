@@ -3,8 +3,10 @@ assignment-2-3-3-liming65 created by GitHub Classroom
 # Assignment  Details
 Click the URL below to see how the database works without downloading the code and setting up enviroment:
 
+[UHN-FE Website](https://uhn-fe.azurewebsites.net)
+
 # Language used
-- Boostrap is the style framework
+- Boostrap, mui is the style framework
 - React js and Next js will be used to develop the front end
 - Node js on Azure is the backend
 - PostgreSQL will be the database on Azure
