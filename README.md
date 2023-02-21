@@ -25,6 +25,8 @@ In order to visualize the database running on azure, I designed three simple ui 
 Mingyang(Nathan) Li: make simple UI for demo purpose, deploy database on Azure.
 
 # All the details and instructions for TA to see and verify the work
+Scenario: Alice is 68 years old and just recovered from the coronary heart disease.  She wants  to have access to a virtual rehabilitation program that allows her  to save her  progress and easily resume where she left off. Thus, she can make steady progress towards recovery without feeling overwhelme.
+
 # page 1
 By clicking the URL, the first page you will see is a static web page, only one button can be clicked, the purpose of this page is to provide users a link button to access to the data submit page, which is the "exercise progress information"
 
